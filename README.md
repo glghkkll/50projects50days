@@ -5,4 +5,4 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [扩展卡片](https://github.com/glghkkll/50projects50days/tree/main/expanding-cards)  | [Demo 地址](https://50projects50days.com/projects/expanding-cards/)               |
+| 01  | [扩展卡片](https://github.com/glghkkll/50projects50days/tree/main/expanding-cards)  | [Demo 地址](https://glghkkll.github.io/expanding-cards/index.html)               |
