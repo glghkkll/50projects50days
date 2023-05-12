@@ -7,4 +7,5 @@
 
 |  #  | Project                                                                                                                     | Live Demo                          |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | -----------------------------------|
-| 01  | [扩展卡片](https://github.com/glghkkll/50projects50days/tree/main/expanding-cards)  | [Demo 地址](https://glghkkll.github.io/50projects/expanding-cards/index.html)|
+| 01  | [扩展卡片](https://github.com/glghkkll/50projects50days/tree/main/expanding-cards)  | [Demo 地址](https://glghkkll.github.io/50projects/expanding-cards)|
+| 02  | [粘性导航](https://github.com/glghkkll/50projects50days/tree/main/sticky-navbar)  | [Demo 地址](https://glghkkll.github.io/50projects/sticky-navbar)|
