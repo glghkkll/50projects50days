@@ -7,8 +7,8 @@
 
 |  #  | Project                                                                                                                     | Live Demo                          |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | -----------------------------------|
-| 01 | [扩展卡片](https://github.com/glghkkll/50projects50days/tree/main/expanding-cards)  | [Demo 地址](https://glghkkll.github.io/50projects/expanding-cards)|
-| 02 | [粘性导航](https://github.com/glghkkll/50projects50days/tree/main/sticky-navbar)  | [Demo 地址](https://glghkkll.github.io/50projects/sticky-navbar)|
-| 03 | [进度条](https://github.com/glghkkll/50projects50days/tree/main/progress-steps)  | [Demo 地址](https://glghkkll.github.io/50projects/progress-steps)|
-| 04 | [模糊加载](https://github.com/glghkkll/50projects50days/tree/main/blurry-loading)  | [Demo 地址](https://glghkkll.github.io/50projects/blurry-loading)|
-| 04 | [搜索框](https://github.com/glghkkll/50projects50days/tree/main/hidden-search)  | [Demo 地址](https://glghkkll.github.io/50projects/hidden-search)|
+| 01 | [扩展卡片](https://github.com/glghkkll/50projects50days/tree/main/expanding-cards)  | [Demo](https://glghkkll.github.io/50projects50days/expanding-cards)|
+| 02 | [粘性导航](https://github.com/glghkkll/50projects50days/tree/main/sticky-navbar)  | [Demo](https://glghkkll.github.io/50projects50days/sticky-navbar)|
+| 03 | [进度条](https://github.com/glghkkll/50projects50days/tree/main/progress-steps)  | [Demo](https://glghkkll.github.io/50projects50days/progress-steps)|
+| 04 | [模糊加载](https://github.com/glghkkll/50projects50days/tree/main/blurry-loading)  | [Demo](https://glghkkll.github.io/50projects50days/blurry-loading)|
+| 04 | [搜索框](https://github.com/glghkkll/50projects50days/tree/main/hidden-search)  | [Demo](https://glghkkll.github.io/50projects50days/hidden-search)|
