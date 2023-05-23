@@ -11,3 +11,4 @@
 | 02 | [粘性导航](https://github.com/glghkkll/50projects50days/tree/main/sticky-navbar)  | [Demo 地址](https://glghkkll.github.io/50projects/sticky-navbar)|
 | 03 | [进度条](https://github.com/glghkkll/50projects50days/tree/main/progress-steps)  | [Demo 地址](https://glghkkll.github.io/50projects/progress-steps)|
 | 04 | [模糊加载](https://github.com/glghkkll/50projects50days/tree/main/blurry-loading)  | [Demo 地址](https://glghkkll.github.io/50projects/blurry-loading)|
+| 04 | [搜索框](https://github.com/glghkkll/50projects50days/tree/main/hidden-search)  | [Demo 地址](https://glghkkll.github.io/50projects/hidden-search)|
