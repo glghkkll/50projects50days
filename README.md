@@ -11,5 +11,7 @@
 | 02 | [粘性导航](https://github.com/glghkkll/50projects50days/tree/main/sticky-navbar)  | [Demo](https://glghkkll.github.io/50projects50days/sticky-navbar)|
 | 03 | [进度条](https://github.com/glghkkll/50projects50days/tree/main/progress-steps)  | [Demo](https://glghkkll.github.io/50projects50days/progress-steps)|
 | 04 | [模糊加载](https://github.com/glghkkll/50projects50days/tree/main/blurry-loading)  | [Demo](https://glghkkll.github.io/50projects50days/blurry-loading)|
-| 04 | [搜索框](https://github.com/glghkkll/50projects50days/tree/main/hidden-search)  | [Demo](https://glghkkll.github.io/50projects50days/hidden-search)|
-| 05 | [滚动载入](https://github.com/glghkkll/50projects50days/tree/main/scroll-animation)  | [Demo](https://glghkkll.github.io/50projects50days/scroll-animation)|
+| 05 | [搜索框](https://github.com/glghkkll/50projects50days/tree/main/hidden-search)  | [Demo](https://glghkkll.github.io/50projects50days/hidden-search)|
+| 06 | [滚动载入](https://github.com/glghkkll/50projects50days/tree/main/scroll-animation)  | [Demo](https://glghkkll.github.io/50projects50days/scroll-animation)|
+| 07 | [页面分割](https://github.com/glghkkll/50projects50days/tree/main/split-landing-page)  | [Demo](https://glghkkll.github.io/50projects50days/split-landing-page)|
+| 08 | [表单输入跳动](https://github.com/glghkkll/50projects50days/tree/main/scroll-animation)  | [Demo](https://glghkkll.github.io/50projects50days/form-input-wave)|
