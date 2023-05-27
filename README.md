@@ -3,7 +3,7 @@
 
 项目源地址为：<https://github.com/bradtraversy/50projects50days>
 
-项目总览：<https://glghkkll.github.io/50projects/>
+项目总览：<https://glghkkll.github.io/50projects50days/>
 
 |  #  | Project                                                                                                                     | Live Demo                          |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | -----------------------------------|
