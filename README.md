@@ -14,4 +14,5 @@
 | 05 | [搜索框](https://github.com/glghkkll/50projects50days/tree/main/hidden-search)  | [Demo](https://glghkkll.github.io/50projects50days/hidden-search)|
 | 06 | [滚动载入](https://github.com/glghkkll/50projects50days/tree/main/scroll-animation)  | [Demo](https://glghkkll.github.io/50projects50days/scroll-animation)|
 | 07 | [页面分割](https://github.com/glghkkll/50projects50days/tree/main/split-landing-page)  | [Demo](https://glghkkll.github.io/50projects50days/split-landing-page)|
-| 08 | [表单输入跳动](https://github.com/glghkkll/50projects50days/tree/main/scroll-animation)  | [Demo](https://glghkkll.github.io/50projects50days/form-input-wave)|
+| 08 | [表单输入跳动](https://github.com/glghkkll/50projects50days/tree/main/form-input-wave)  | [Demo](https://glghkkll.github.io/50projects50days/form-input-wave)|
+| 09 | [fetch获取笑话](https://github.com/glghkkll/50projects50days/tree/main/dad-jokes)  | [Demo](https://glghkkll.github.io/50projects50days/dad-jokes)|
