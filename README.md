@@ -17,4 +17,4 @@
 | 08 | [表单输入跳动](https://github.com/glghkkll/50projects50days/tree/main/form-input-wave)  | [Demo](https://glghkkll.github.io/50projects50days/form-input-wave)|
 | 09 | [fetch获取笑话](https://github.com/glghkkll/50projects50days/tree/main/dad-jokes)  | [Demo](https://glghkkll.github.io/50projects50days/dad-jokes)|
 | 09 | [动画导航](https://github.com/glghkkll/50projects50days/tree/main/animated-navigation)  | [Demo](https://glghkkll.github.io/50projects50days/animated-navigation)|
-| 09 | [动画导航](https://github.com/glghkkll/50projects50days/tree/main/button-ripple-effect)  | [Demo](https://glghkkll.github.io/50projects50days/button-ripple-effect)|
+| 09 | [按钮波纹效果](https://github.com/glghkkll/50projects50days/tree/main/button-ripple-effect)  | [Demo](https://glghkkll.github.io/50projects50days/button-ripple-effect)|
