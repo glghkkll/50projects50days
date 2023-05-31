@@ -19,3 +19,4 @@
 | 10 | [动画导航](https://github.com/glghkkll/50projects50days/tree/main/animated-navigation)  | [Demo](https://glghkkll.github.io/50projects50days/animated-navigation)|
 | 11 | [按钮波纹效果](https://github.com/glghkkll/50projects50days/tree/main/button-ripple-effect)  | [Demo](https://glghkkll.github.io/50projects50days/button-ripple-effect)|
 | 12 | [电影信息展示](https://github.com/glghkkll/50projects50days/tree/main/movie-app)  | [Demo](https://glghkkll.github.io/50projects50days/movie-app)|
+| 13 | [背景变换](https://github.com/glghkkll/50projects50days/tree/main/background-slider)  | [Demo](https://glghkkll.github.io/50projects50days/background-slider)|
