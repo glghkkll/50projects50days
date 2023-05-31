@@ -5,6 +5,10 @@
 a {
     text-decoration: none;
     color: #fff;
+    border-bottom: 2px solid skyblue;
+}
+a:hover {
+    color: skyblue;
 }
 
 body {
@@ -37,6 +41,7 @@ body {
 
 .main-nav ul li a{
     padding: 5px 10px;
+    border: 0;
 }
 
 .showcase {
@@ -71,9 +76,12 @@ body {
 .projects>div {
     position: relative;
     width: 300px;
+    height: 200px;
     margin: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
+    display: flex;
+    align-items: center;
 }
 .projects span {
     position: absolute;
@@ -99,12 +107,14 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.9);
     color: #fff;
     border-radius: 5px;
+    transition: all 0.6s ease;
 }
 
 .projects .content a {
+    border: 0;
     padding: 5px 10px;
     background-color: steelblue;
     border-radius: 5px;
@@ -121,6 +131,7 @@ body {
     background-color: #333333;
     color: #f0f0f0;
     text-align: center;
+    padding: 30px 10px;
 }
 
 .footer {
@@ -135,4 +146,10 @@ body {
 .footer .container p a{
     text-decoration: none;
     color: #333;
+}
+
+@media (max-width: 500px) {
+    .projects>div {
+        width: 500px;
+    }
 }
