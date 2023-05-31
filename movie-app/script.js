@@ -36,9 +36,9 @@ function showMsg(msg, time = 1000) {
     border-radius: 5px;
     `
     document.body.appendChild(msgEl)
-    setTimeout(() => {
-        document.body.removeChild(msgEl)
-    }, 5000)
+    // setTimeout(() => {
+    //     document.body.removeChild(msgEl)
+    // }, 5000)
 }
 function showMovies(movies) {
     main.innerHTML = ''
