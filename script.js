@@ -47,7 +47,7 @@ projects.forEach(project => {
 
     projectEl.innerHTML = `
         <span class="day">Day ${number}</span>
-        <img src="https://glghkkll.github.io/img/${imgLink} alt="${name}">
+        <img src="https://glghkkll.github.io/50projects50days/img/${imgLink} alt="${name}">
         <div class="content">
             <h4>${name}</h4>
             <a href="https://glghkkll.github.io/50projects50days/${name}" class="btn">Live Demo</a>
