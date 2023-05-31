@@ -8,16 +8,43 @@ const main = document.querySelector('#main')
 
 getMovies(API_URL)
 async function getMovies(url) {
-    const res = await fetch(url)
-    const data = await res.json()
+    try {
+        const res = await fetch(url)
+        const data = await res.json()
 
-    showMovies(data.results);
+        showMovies(data.results);
+    } catch (error) {
+        console.log(error);
+        showMsg(`
+            发生错误 接口地址在国外,正在迁移国内地址中...
+        `)
+    }
+
+}
+
+function showMsg(msg, time = 1000) {
+    const msgEl = document.createElement('div')
+    msgEl.innerHTML = msg
+    msgEl.style.cssText = `
+    position: fixed;
+    top: 2%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 7px 15px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border-radius: 5px;
+    `
+    document.body.appendChild(msgEl)
+    setTimeout(() => {
+        document.body.removeChild(msgEl)
+    }, 5000)
 }
 function showMovies(movies) {
     main.innerHTML = ''
 
     movies.forEach(movie => {
-        const {title, poster_path, vote_average, overview} = movie
+        const { title, poster_path, vote_average, overview } = movie
         const movieEl = document.createElement('div')
         movieEl.classList.add('movie')
 
@@ -39,7 +66,7 @@ function showMovies(movies) {
 function getClassByVote(vote) {
     if (vote > 8) {
         return 'green'
-    } else if(vote > 5) {
+    } else if (vote > 5) {
         return 'orange'
     } else {
         return 'red'
