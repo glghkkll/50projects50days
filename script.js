@@ -65,6 +65,11 @@ const projects = [
         name: "背景变换",
         imgLink: "13.png",
         link: 'background-slider'
+    },{
+        number: 14,
+        name: "axios获取GitHub用户",
+        imgLink: "14.png",
+        link: 'github-profiles'
     },
 ]
 
