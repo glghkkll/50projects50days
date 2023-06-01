@@ -1,20 +1,37 @@
+// api.themoviedb.org
 // const API_URL = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=b5baa1b4c1ac18dc2c41f2d1aafc8641&page=1'
-const API_URL = 'https://imdb-api.com/en/API/Top250Movies/k_1vb64up2'
 // const IMG_PATH = 'https://image.tmdb.org/t/p/w1280'
 // const SEARCH_API = 'https://api.themoviedb.org/3/search/movie?api_key=b5baa1b4c1ac18dc2c41f2d1aafc8641&query='
+
+// https://imdb-api.com/ 
+const TOP250Movies_API = 'https://imdb-api.com/en/API/Top250Movies/k_1vb64up2'
+const MostPopularMovies_API = 'https://imdb-api.com/en/API/MostPopularMovies/k_1vb64up2'
 const SEARCH_API = 'https://imdb-api.com/en/API/SearchTitle/k_1vb64up2/'
 
 const form = document.querySelector('#form')
 const search = document.querySelector('#search')
 const main = document.querySelector('#main')
+const btns = document.querySelectorAll('.btn')
 
-getMovies(API_URL)
+btns[0].addEventListener('click', () => {
+    getMovies(TOP250Movies_API)
+})
+btns[1].addEventListener('click', () => {
+    getMovies(MostPopularMovies_API)
+})
+
+getMovies(TOP250Movies_API)
 async function getMovies(url) {
     try {
         const res = await fetch(url)
         const data = await res.json()
         console.log(data);
-        showMovies(data.items.slice(0, 20) || data.results);
+        if (data.items !== undefined) {
+            showMovies(data.items.slice(0, 8));
+        } else {
+            showMovies(data.results)
+        }
+        
     } catch (error) {
         console.log(error);
         showMsg(`
