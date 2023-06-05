@@ -70,6 +70,11 @@ const projects = [
         name: "axios获取GitHub用户",
         imgLink: "14.png",
         link: 'github-profiles'
+    },{
+        number: 15,
+        name: "主题时钟",
+        imgLink: "15.png",
+        link: 'theme-clock'
     },
 ]
 
